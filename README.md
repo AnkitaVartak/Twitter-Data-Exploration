@@ -5,4 +5,4 @@ I have used semi-structured data from Twitter API and analyzed it with the help 
 1.	Part 1: Extract and summarize twitter hashtags
 2.	Part 2: Sentimental Analysis
 3.	Part 3: Processing a JSON File with Twitter Data
-![image](https://user-images.githubusercontent.com/30788289/192115911-dd540741-2027-4d16-81b3-d2321d52b2e6.png)
+
